@@ -1,2 +1,1 @@
-# Jaimy.ai
-GitHub org
+# `Jaimy ❤️ Open Source`
